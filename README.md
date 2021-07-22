@@ -41,7 +41,7 @@ The data retrieved from Foursquare contained information of venues within a spec
 
 # Map of Scarborough
  
-   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).png)
+   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).PNG)
 
 # 3) Methodology :
 
