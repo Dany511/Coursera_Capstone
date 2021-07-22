@@ -39,9 +39,7 @@ The data retrieved from Foursquare contained information of venues within a spec
 
 8.Venue Category
 
-# Map of Scarborough
- 
-   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).PNG)
+# [Map of Scarborough](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).PNG)
 
 # 3) Methodology :
 
@@ -49,13 +47,9 @@ Clustering Approach:
 
 To compare the similarities of two cities, we decided to explore neighborhoods, segment them, and group them into clusters to find similar neighborhoods in a big city like New York and Toronto. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
 
-# K-means clustering
-
-   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(85).png)
+# [K-means clustering](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(85).png)
  
-# Most common venues near neighborhood
-
-   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(84).png)
+# [Most common venues near neighborhood](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(84).png)
 
 Work Flow:
 
@@ -67,10 +61,7 @@ Using credentials of Foursquare API features of near-by places of the neighborho
 
    
  
-# Average Housing Price by Clusters in Scarborough
-
- 
-   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(88).png)
+# [Average Housing Price by Clusters in Scarborough](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(88).png)
  
 The Location:
 
