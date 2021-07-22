@@ -63,9 +63,9 @@ Using credentials of Foursquare API features of near-by places of the neighborho
 
 # 4) Results :
 
-# Map of clusters
+# [Map of clusters](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(86).png )
 
-   ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(86).png)
+   
  
 # Average Housing Price by Clusters in Scarborough
 
