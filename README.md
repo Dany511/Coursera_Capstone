@@ -41,7 +41,7 @@ The data retrieved from Foursquare contained information of venues within a spec
 
 # Map of Scarborough
  
- ![]()
+ ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).png)
 
 # 3) Methodology :
 
@@ -49,12 +49,29 @@ Clustering Approach:
 
 To compare the similarities of two cities, we decided to explore neighborhoods, segment them, and group them into clusters to find similar neighborhoods in a big city like New York and Toronto. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
 
+# K-means clustering
+
+ ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(85).png)
+ 
+# Most common venues near neighborhood
+
+ ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(84).png)
+
 Work Flow:
 
 Using credentials of Foursquare API features of near-by places of the neighborhoods would be mined. Due to http request limitations the number of places per neighborhood parameter would reasonably be set to 100 and the radius parameter would be set to 500.
 
 # 4) Results :
 
+# Map of clusters
+
+ ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(86).png)
+ 
+# Average Housing Price by Clusters in Scarborough
+
+ 
+ ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(88).png)
+ 
 The Location:
 
 Scarborough is a popular destination for new immigrants in Canada to reside. As a result, it is one of the most diverse and multicultural areas in the Greater Toronto Area, being home to various religious groups and places of worship. Although immigration has become a hot topic over the past few years with more governments seeking more restrictions on immigrants and refugees, the general trend of immigration into Canada has been one of on the rise.
