@@ -41,7 +41,7 @@ The data retrieved from Foursquare contained information of venues within a spec
 
 # Map of Scarborough
  
- ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).png)
+           ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(83).png)
 
 # 3) Methodology :
 
@@ -51,11 +51,11 @@ To compare the similarities of two cities, we decided to explore neighborhoods, 
 
 # K-means clustering
 
- ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(85).png)
+           ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(85).png)
  
 # Most common venues near neighborhood
 
- ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(84).png)
+           ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(84).png)
 
 Work Flow:
 
@@ -65,12 +65,12 @@ Using credentials of Foursquare API features of near-by places of the neighborho
 
 # Map of clusters
 
- ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(86).png)
+           ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(86).png)
  
 # Average Housing Price by Clusters in Scarborough
 
  
- ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(88).png)
+           ![](https://github.com/Dany511/Coursera_Capstone/blob/main/Screenshot%20(88).png)
  
 The Location:
 
