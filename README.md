@@ -39,6 +39,10 @@ The data retrieved from Foursquare contained information of venues within a spec
 
 8.Venue Category
 
+# Map of Scarborough
+ 
+ ![]()
+
 # 3) Methodology :
 
 Clustering Approach:
